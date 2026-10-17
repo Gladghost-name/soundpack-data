@@ -1,0 +1,27 @@
+{
+    "version": 1,
+    "tracks": [
+    {
+        "title": "Social_Plaza_Lofi_Beat",
+        "description": "REMOTE OVERRIDE: a chill, loopable lofi bed for hangouts.",
+        "duration": 125
+    },
+    {
+        "title": "Remote_Test_Pop",
+        "description": "Remote-only track using the sound you previewed earlier.",
+        "category": "Interface",
+        "subcategory": "Hover and Click",
+        "duration": 2,
+        "tags": ["pop", "ui", "button"],
+        "soundId": 9113277121
+    },
+    {
+        "title": "Remote_No_Id_Track",
+        "description": "Remote-only, no sound id: hidden unless DEV_SHOW_TRACKS_WITHOUT_ID is true.",
+        "category": "Ambience",
+        "tags": ["rain"]
+    },
+    { "description": "This entry has no title and must be dropped." },
+    "this is not an object"
+    ]
+}
