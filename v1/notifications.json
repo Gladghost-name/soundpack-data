@@ -1,0 +1,46 @@
+{
+    "version": 1,
+    "items": [
+    {
+        "id": "ugc-2026-10-a",
+        "type": "ugc",
+        "title": "New Merch Booth items",
+        "body": "Three new limited items are on sale. Open the Support tab to see the commission you earn on each sale.",
+        "date": "2026-10-15",
+        "url": "https://create.roblox.com/docs"
+    },
+    {
+        "id": "track-2026-10-b",
+        "type": "track",
+        "title": "12 new music tracks",
+        "body": "The Music category now includes lofi, chiptune and brass stingers.",
+        "date": "2026-10-10"
+    },
+    {
+        "id": "sugg-2026-10-c",
+        "type": "suggestion",
+        "title": "Your suggestion was added",
+        "body": "Thanks for suggesting more rain sounds. They are in the Ambience category now.",
+        "date": "2026-10-01"
+    },
+    {
+        "id": "welcome-1",
+        "type": "general",
+        "title": "Welcome to SoundPack (REMOTE OVERRIDE)",
+        "body": "This remote item replaces the built-in welcome notice because the ids match.",
+        "date": "2026-01-02"
+    },
+    {
+        "type": "general",
+        "title": "No id, so this entry is dropped"
+    },
+    {
+        "id": "odd-1",
+        "type": "weird",
+        "title": "Unknown type, bad date, insecure link",
+        "body": "The type falls back to general, the date is hidden, and the http:// link is ignored.",
+        "date": "not-a-date",
+        "url": "http://insecure.example"
+    }
+    ]
+}
