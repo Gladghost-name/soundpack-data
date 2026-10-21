@@ -2,45 +2,43 @@
     "version": 1,
     "items": [
     {
-        "id": "ugc-2026-10-a",
-        "type": "ugc",
-        "title": "New Merch Booth items",
-        "body": "Three new limited items are on sale. Open the Support tab to see the commission you earn on each sale.",
-        "date": "2026-10-15",
-        "url": "https://create.roblox.com/docs"
-    },
-    {
-        "id": "track-2026-10-b",
+        "id": "track-2026-10-a",
         "type": "track",
-        "title": "12 new music tracks",
-        "body": "The Music category now includes lofi, chiptune and brass stingers.",
+        "title": "Explore Tracks",
+        "body": "Discover and fine tracks to insert in your experiences, curated by me.",
         "date": "2026-10-10"
     },
     {
         "id": "sugg-2026-10-c",
         "type": "suggestion",
-        "title": "Your suggestion was added",
-        "body": "Thanks for suggesting more rain sounds. They are in the Ambience category now.",
+        "title": "Write a suggestion",
+        "body": "Suggest a feature or new sounds to be added to the pack.",
         "date": "2026-10-01"
     },
+        
     {
-        "id": "welcome-1",
-        "type": "general",
-        "title": "Welcome to SoundPack (REMOTE OVERRIDE)",
-        "body": "This remote item replaces the built-in welcome notice because the ids match.",
-        "date": "2026-01-02"
-    },
-    {
-        "type": "general",
-        "title": "No id, so this entry is dropped"
-    },
-    {
-        "id": "odd-1",
-        "type": "weird",
-        "title": "Unknown type, bad date, insecure link",
-        "body": "The type falls back to general, the date is hidden, and the http:// link is ignored.",
-        "date": "not-a-date",
-        "url": "http://insecure.example"
-    }
+		"id": "welcome-1",
+		"type": "general",
+		"title": "Welcome to SoundPack",
+		"body": "Browse the library, tap ♡ to save tracks, and use Insert or Code usage to put a sound into your experience. Tap + on the home screen to keep your own tracks across every experience.",
+		"date": "2026-01-02",
+	},
+	{
+		"id": "tip-http-1",
+		"type": "general",
+		"title": "Get live updates",
+		"body": "Turn on Allow HTTP Requests (Game Settings → Security) to receive new tracks and notifications and to send suggestions. SoundPack works fine without it, using the built-in library.",
+		"date": "2026-01-01",
+		"onlyWhenOffline": true,
+	},
+	
+	{
+		"id": "ugc-2026-10-b",
+		"type": "ugc",
+		"title": "Affiliate & Support",
+		"body": "Insert a merch booth or sell UGC Avatar Items to earn a comission on each purchase. donate by purchasing a gamepass and receive a badge.",
+		"date": "2026-01-01",
+		"onlyWhenOffline": true,
+	},
     ]
 }
