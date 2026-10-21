@@ -2,26 +2,1226 @@
     "version": 1,
     "tracks": [
     {
-        "title": "Social_Plaza_Lofi_Beat",
-        "description": "REMOTE OVERRIDE: a chill, loopable lofi bed for hangouts.",
-        "duration": 125
-    },
-    {
-        "title": "Remote_Test_Pop",
-        "description": "Remote-only track using the sound you previewed earlier.",
-        "category": "Interface",
-        "subcategory": "Hover and Click",
-        "duration": 2,
-        "tags": ["pop", "ui", "button"],
-        "soundId": 9113277121
-    },
-    {
-        "title": "Remote_No_Id_Track",
-        "description": "Remote-only, no sound id: hidden unless DEV_SHOW_TRACKS_WITHOUT_ID is true.",
+        "title": "busy_cafe_chatter_s1558333294_v1",
+        "description": "A looping ambience of non-verbal crowd murmurs and light cup clinking for a social hub.",
         "category": "Ambience",
-        "tags": ["rain"]
+        "subcategory": "City & Crowds",
+        "duration": 60,
+        "tags": [
+            "crowd",
+            "chatter",
+            "loop",
+            "cafe",
+            "social",
+            "murmur",
+            "people"
+        ],
+        "matched_prefix": "busy_cafe_chatter"
     },
-    { "description": "This entry has no title and must be dropped." },
-    "this is not an object"
-    ]
+    {
+        "title": "suburban_park_ambience_s2053524176_v1",
+        "description": "A peaceful outdoor ambience with birds and wind for a neighborhood roleplay area.",
+        "category": "Ambience",
+        "subcategory": "Nature",
+        "duration": 60,
+        "tags": [
+            "forest",
+            "birds",
+            "loop",
+            "park",
+            "suburbs",
+            "wind",
+            "trees"
+        ],
+        "matched_prefix": "suburban_park_ambience"
+    },
+    {
+        "title": "plaza_water_fountain_s1666402369_v1",
+        "description": "Looping sound of splashing water for a decorative fountain in the center of a tycoon map.",
+        "category": "Ambience",
+        "subcategory": "Water",
+        "duration": 60,
+        "tags": [
+            "water",
+            "splash",
+            "loop",
+            "fountain",
+            "trickle",
+            "plaza",
+            "calm"
+        ],
+        "matched_prefix": "plaza_water_fountain"
+    },
+    {
+        "title": "gentle_rain_loop_s1336603278_v1",
+        "description": "A soothing rain ambience for when the weather system changes in-game.",
+        "category": "Ambience",
+        "subcategory": "Weather",
+        "duration": 60,
+        "tags": [
+            "rain",
+            "loop",
+            "calm",
+            "weather",
+            "precipitation",
+            "soft"
+        ],
+        "matched_prefix": "gentle_rain_loop"
+    },
+    {
+        "title": "clean_office_hum_s1415946_v1",
+        "description": "A subtle room tone for tycoon headquarters and modern interior spaces.",
+        "category": "Ambience",
+        "subcategory": "Interiors & Room Tone",
+        "duration": 60,
+        "tags": [
+            "room-tone",
+            "hum",
+            "loop",
+            "office",
+            "hvac",
+            "quiet",
+            "interior"
+        ],
+        "matched_prefix": "clean_office_hum"
+    },
+    {
+        "title": "retail_mall_ambience_s1567595409_v1",
+        "description": "A spacious room tone with distant unintelligible activity for a shopping center.",
+        "category": "Ambience",
+        "subcategory": "Interiors & Room Tone",
+        "duration": 60,
+        "tags": [
+            "room-tone",
+            "loop",
+            "mall",
+            "retail",
+            "spacious",
+            "echo",
+            "interior"
+        ],
+        "matched_prefix": "retail_mall_ambience"
+    },
+    {
+        "title": "summer_night_crickets_s1717581463_v1",
+        "description": "A calm, nocturnal ambience featuring crickets for nighttime roleplay scenes.",
+        "category": "Ambience",
+        "subcategory": "Nature",
+        "duration": 60,
+        "tags": [
+            "night",
+            "crickets",
+            "loop",
+            "nature",
+            "summer",
+            "calm",
+            "dark"
+        ],
+        "matched_prefix": "summer_night_crickets"
+    },
+    {
+        "title": "sunny_breeze_trees_s479425231_v1",
+        "description": "A slightly stronger wind ambience rustling through tree leaves.",
+        "category": "Ambience",
+        "subcategory": "Weather",
+        "duration": 60,
+        "tags": [
+            "wind",
+            "loop",
+            "weather",
+            "breeze",
+            "trees",
+            "leaves",
+            "outdoors"
+        ],
+        "matched_prefix": "sunny_breeze_trees"
+    },
+    {
+        "title": "ui_hover_bubble_pop_01_s431471112_v1",
+        "description": "A satisfying, soft cartoony bubble pop for hovering over menu buttons. (Variation 1)",
+        "category": "Interface",
+        "subcategory": "Clicks & Hovers",
+        "duration": 0.5,
+        "tags": [
+            "hover",
+            "pop",
+            "ui",
+            "button",
+            "bubble",
+            "soft",
+            "cartoony"
+        ],
+        "matched_prefix": "ui_hover_bubble_pop_01"
+    },
+    {
+        "title": "ui_hover_bubble_pop_02_s1881787417_v1",
+        "description": "A slightly higher pitched soft bubble pop for button hovers. (Variation 2)",
+        "category": "Interface",
+        "subcategory": "Clicks & Hovers",
+        "duration": 0.5,
+        "tags": [
+            "hover",
+            "pop",
+            "ui",
+            "button",
+            "bubble",
+            "high",
+            "cartoony"
+        ],
+        "matched_prefix": "ui_hover_bubble_pop_02"
+    },
+    {
+        "title": "ui_window_open_slide_s56366599_v1",
+        "description": "A smooth, quick whoosh-and-click sound when a player opens a shop menu.",
+        "category": "Interface",
+        "subcategory": "Menus & Windows",
+        "duration": 1,
+        "tags": [
+            "open",
+            "menu",
+            "slide",
+            "ui",
+            "whoosh",
+            "slick",
+            "window"
+        ],
+        "matched_prefix": "ui_window_open_slide"
+    },
+    {
+        "title": "cash_register_chaching_s1833475772_v1",
+        "description": "A classic, rewarding cash register bell for making a sale in a tycoon.",
+        "category": "Interface",
+        "subcategory": "Shop & Currency",
+        "duration": 1.5,
+        "tags": [
+            "purchase",
+            "cash",
+            "cha-ching",
+            "shop",
+            "coin",
+            "sell",
+            "reward"
+        ],
+        "matched_prefix": "cash_register_chaching"
+    },
+    {
+        "title": "coin_drop_single_01_s1800761828_v1",
+        "description": "A single gold coin dropping onto a wooden table, used for small purchases. (Variation 1)",
+        "category": "Interface",
+        "subcategory": "Shop & Currency",
+        "duration": 1,
+        "tags": [
+            "coin",
+            "buy",
+            "purchase",
+            "currency",
+            "gold",
+            "metal",
+            "ui"
+        ],
+        "matched_prefix": "coin_drop_single_01"
+    },
+    {
+        "title": "coin_drop_double_02_s807724773_v1",
+        "description": "Two gold coins clinking together for medium purchases. (Variation 2)",
+        "category": "Interface",
+        "subcategory": "Shop & Currency",
+        "duration": 1.5,
+        "tags": [
+            "coin",
+            "buy",
+            "purchase",
+            "currency",
+            "clink",
+            "metal",
+            "ui"
+        ],
+        "matched_prefix": "coin_drop_double_02"
+    },
+    {
+        "title": "success_tone_soft_s1387937671_v1",
+        "description": "A gentle, chiming success tone for completing a task or objective.",
+        "category": "Interface",
+        "subcategory": "Confirm / Error",
+        "duration": 1.5,
+        "tags": [
+            "success",
+            "confirm",
+            "ui",
+            "chime",
+            "positive",
+            "bell",
+            "soft"
+        ],
+        "matched_prefix": "success_tone_soft"
+    },
+    {
+        "title": "error_buzzer_gentle_s1709884652_v1",
+        "description": "A mild, non-offensive error tone for when a player lacks funds, ensuring it isn't overly harsh.",
+        "category": "Interface",
+        "subcategory": "Confirm / Error",
+        "duration": 1,
+        "tags": [
+            "error",
+            "deny",
+            "invalid",
+            "ui",
+            "buzzer",
+            "soft",
+            "bloop"
+        ],
+        "matched_prefix": "error_buzzer_gentle"
+    },
+    {
+        "title": "cartoony_bonk_impact_s2007465680_v1",
+        "description": "A silly, harmless bonk sound for kid-friendly combat or bumping into objects.",
+        "category": "Combat",
+        "subcategory": "Hit Feedback",
+        "duration": 1,
+        "tags": [
+            "hit",
+            "impact",
+            "funny",
+            "bonk",
+            "cartoon",
+            "harmless",
+            "wood"
+        ],
+        "matched_prefix": "cartoony_bonk_impact"
+    },
+    {
+        "title": "toy_dart_blaster_fire_01_s1719066890_v1",
+        "description": "A harmless toy plastic dart firing, perfect for safe, kid-friendly ranged combat. (Variation 1)",
+        "category": "Combat",
+        "subcategory": "Ranged & Projectiles",
+        "duration": 1,
+        "tags": [
+            "projectile",
+            "throw",
+            "toy",
+            "plastic",
+            "dart",
+            "harmless",
+            "safe"
+        ],
+        "matched_prefix": "toy_dart_blaster_fire_01"
+    },
+    {
+        "title": "toy_dart_blaster_fire_02_s828833158_v1",
+        "description": "A slightly lower-pitched toy dart firing sound. (Variation 2)",
+        "category": "Combat",
+        "subcategory": "Ranged & Projectiles",
+        "duration": 1,
+        "tags": [
+            "projectile",
+            "throw",
+            "toy",
+            "plastic",
+            "dart",
+            "spring",
+            "safe"
+        ],
+        "matched_prefix": "toy_dart_blaster_fire_02"
+    },
+    {
+        "title": "foam_sword_swoosh_s1121830696_v1",
+        "description": "A thick, dull whoosh for swinging a foam or toy melee weapon.",
+        "category": "Combat",
+        "subcategory": "Melee",
+        "duration": 1,
+        "tags": [
+            "swing",
+            "whoosh",
+            "sword",
+            "foam",
+            "toy",
+            "harmless",
+            "melee"
+        ],
+        "matched_prefix": "foam_sword_swoosh"
+    },
+    {
+        "title": "foam_sword_bop_s1700576189_v1",
+        "description": "A soft, non-violent hit sound when a toy sword strikes a player.",
+        "category": "Combat",
+        "subcategory": "Melee",
+        "duration": 1,
+        "tags": [
+            "hit",
+            "punch",
+            "foam",
+            "bop",
+            "toy",
+            "soft",
+            "impact"
+        ],
+        "matched_prefix": "foam_sword_bop"
+    },
+    {
+        "title": "magic_bubble_block_s1820383042_v1",
+        "description": "A soapy, resonant bubble sound deflecting an attack.",
+        "category": "Combat",
+        "subcategory": "Defense & Hits",
+        "duration": 1.5,
+        "tags": [
+            "block",
+            "deflect",
+            "shield",
+            "bubble",
+            "magic",
+            "pop",
+            "soft"
+        ],
+        "matched_prefix": "magic_bubble_block"
+    },
+    {
+        "title": "confetti_party_pop_s582987493_v1",
+        "description": "A celebratory party popper explosion, used in place of real bombs for safety.",
+        "category": "Combat",
+        "subcategory": "Explosions",
+        "duration": 3,
+        "tags": [
+            "explosion",
+            "blast",
+            "confetti",
+            "party",
+            "pop",
+            "celebration",
+            "harmless"
+        ],
+        "matched_prefix": "confetti_party_pop"
+    },
+    {
+        "title": "sparkle_hit_marker_s537452455_v1",
+        "description": "A positive, bright tinkle sound when landing a successful, safe hit.",
+        "category": "Combat",
+        "subcategory": "Hit Feedback",
+        "duration": 1,
+        "tags": [
+            "hitmarker",
+            "hit",
+            "sparkle",
+            "chime",
+            "positive",
+            "reward",
+            "magic"
+        ],
+        "matched_prefix": "sparkle_hit_marker"
+    },
+    {
+        "title": "ch_sneaker_tile_step_01_s2118645773_v1",
+        "description": "A squeaky, rubbery sneaker footstep on a smooth mall or hospital tile floor. (Variation 1)",
+        "category": "Character",
+        "subcategory": "Footsteps",
+        "duration": 1,
+        "tags": [
+            "footstep",
+            "walk",
+            "sneaker",
+            "tile",
+            "shoe",
+            "squeak",
+            "indoor"
+        ],
+        "matched_prefix": "ch_sneaker_tile_step_01"
+    },
+    {
+        "title": "ch_sneaker_tile_step_02_s35678150_v1",
+        "description": "A sneaker footstep on a smooth tile floor. (Variation 2)",
+        "category": "Character",
+        "subcategory": "Footsteps",
+        "duration": 1,
+        "tags": [
+            "footstep",
+            "walk",
+            "sneaker",
+            "tile",
+            "shoe",
+            "indoor",
+            "clean"
+        ],
+        "matched_prefix": "ch_sneaker_tile_step_02"
+    },
+    {
+        "title": "cartoon_boing_jump_s2041331652_v1",
+        "description": "A comedic springy boing for jumping in a casual roleplay game.",
+        "category": "Character",
+        "subcategory": "Movement",
+        "duration": 1.5,
+        "tags": [
+            "jump",
+            "boing",
+            "cartoon",
+            "spring",
+            "bounce",
+            "silly",
+            "movement"
+        ],
+        "matched_prefix": "cartoon_boing_jump"
+    },
+    {
+        "title": "light_sneaker_land_s1494436713_v1",
+        "description": "A soft, safe thud of a character landing from a jump onto a solid floor.",
+        "category": "Character",
+        "subcategory": "Movement",
+        "duration": 1,
+        "tags": [
+            "land",
+            "thud",
+            "sneakers",
+            "footstep",
+            "impact",
+            "soft",
+            "movement"
+        ],
+        "matched_prefix": "light_sneaker_land"
+    },
+    {
+        "title": "backpack_zip_equip_s1682389280_v1",
+        "description": "The sound of unzipping a canvas backpack, used when opening the inventory.",
+        "category": "Character",
+        "subcategory": "Equip & Handling",
+        "duration": 1.5,
+        "tags": [
+            "equip",
+            "zipper",
+            "backpack",
+            "inventory",
+            "cloth",
+            "rustle",
+            "bag"
+        ],
+        "matched_prefix": "backpack_zip_equip"
+    },
+    {
+        "title": "apple_crunch_bite_s1527020772_v1",
+        "description": "A loud, satisfying crunch of biting into an apple for eating animations.",
+        "category": "Character",
+        "subcategory": "Eat & Drink",
+        "duration": 1.5,
+        "tags": [
+            "eat",
+            "crunch",
+            "apple",
+            "bite",
+            "food",
+            "snack",
+            "satisfying"
+        ],
+        "matched_prefix": "apple_crunch_bite"
+    },
+    {
+        "title": "potion_gulp_s1932655479_v1",
+        "description": "A distinct, cartoonish gulping sound for drinking beverages or healing items.",
+        "category": "Character",
+        "subcategory": "Eat & Drink",
+        "duration": 1.5,
+        "tags": [
+            "drink",
+            "gulp",
+            "potion",
+            "swallow",
+            "liquid",
+            "thirsty",
+            "heal"
+        ],
+        "matched_prefix": "potion_gulp"
+    },
+    {
+        "title": "friendly_gasp_wow_s617520800_v1",
+        "description": "A non-verbal, enthusiastic vocal gasp acting as a positive reaction placeholder.",
+        "category": "Character",
+        "subcategory": "Voice Reactions",
+        "duration": 1.5,
+        "tags": [
+            "gasp",
+            "breath",
+            "reaction",
+            "wow",
+            "positive",
+            "friendly",
+            "non-verbal"
+        ],
+        "matched_prefix": "friendly_gasp_wow"
+    },
+    {
+        "title": "store_glass_door_slide_s662084308_v1",
+        "description": "The smooth, mechanical sliding sound of automatic glass doors opening in a mall.",
+        "category": "Machines",
+        "subcategory": "Doors & Mechanisms",
+        "duration": 2.5,
+        "tags": [
+            "door",
+            "slide",
+            "glass",
+            "automatic",
+            "store",
+            "mall",
+            "open"
+        ],
+        "matched_prefix": "store_glass_door_slide"
+    },
+    {
+        "title": "tycoon_conveyor_loop_s300698898_v1",
+        "description": "A steady, rhythmic churning of a tycoon factory conveyor belt moving items.",
+        "category": "Machines",
+        "subcategory": "Machinery",
+        "duration": 8,
+        "tags": [
+            "conveyor",
+            "motor",
+            "gears",
+            "factory",
+            "tycoon",
+            "loop",
+            "rhythmic"
+        ],
+        "matched_prefix": "tycoon_conveyor_loop"
+    },
+    {
+        "title": "cash_printer_chunk_s1259478073_v1",
+        "description": "A satisfying, mechanical chunk sound when a tycoon dropper spawns cash or items.",
+        "category": "Machines",
+        "subcategory": "Machinery",
+        "duration": 1.5,
+        "tags": [
+            "piston",
+            "gears",
+            "spawner",
+            "dropper",
+            "tycoon",
+            "mechanical",
+            "chunk"
+        ],
+        "matched_prefix": "cash_printer_chunk"
+    },
+    {
+        "title": "golf_cart_drive_loop_s224536926_v1",
+        "description": "A quiet, whirring electric motor loop for driving a golf cart or small EV around town.",
+        "category": "Machines",
+        "subcategory": "Cars & Land Vehicles",
+        "duration": 8,
+        "tags": [
+            "engine",
+            "electric",
+            "cart",
+            "vehicle",
+            "loop",
+            "quiet",
+            "whir"
+        ],
+        "matched_prefix": "golf_cart_drive_loop"
+    },
+    {
+        "title": "cartoon_car_beep_s718513330_v1",
+        "description": "A friendly, high-pitched double beep of a small car horn.",
+        "category": "Machines",
+        "subcategory": "Cars & Land Vehicles",
+        "duration": 2,
+        "tags": [
+            "horn",
+            "beep",
+            "car",
+            "friendly",
+            "cartoon",
+            "traffic",
+            "vehicle"
+        ],
+        "matched_prefix": "cartoon_car_beep"
+    },
+    {
+        "title": "toy_train_whistle_s955026633_v1",
+        "description": "A joyful, airy wooden train whistle toot for a mini-game or playground area.",
+        "category": "Machines",
+        "subcategory": "Boats & Trains",
+        "duration": 2.5,
+        "tags": [
+            "whistle",
+            "train",
+            "toy",
+            "wood",
+            "toot",
+            "playful",
+            "kids"
+        ],
+        "matched_prefix": "toy_train_whistle"
+    },
+    {
+        "title": "drone_hover_loop_s1352430824_v1",
+        "description": "A consistent, buzzy whir of a quadcopter drone hovering in the air.",
+        "category": "Machines",
+        "subcategory": "Air Vehicles",
+        "duration": 8,
+        "tags": [
+            "propeller",
+            "drone",
+            "hover",
+            "fly",
+            "buzz",
+            "loop",
+            "electric"
+        ],
+        "matched_prefix": "drone_hover_loop"
+    },
+    {
+        "title": "safe_vault_wheel_spin_s236411557_v1",
+        "description": "A heavy but smooth metallic clicking of spinning a bank vault wheel in a tycoon.",
+        "category": "Machines",
+        "subcategory": "Doors & Mechanisms",
+        "duration": 3,
+        "tags": [
+            "lock",
+            "door",
+            "wheel",
+            "vault",
+            "spin",
+            "click",
+            "metal"
+        ],
+        "matched_prefix": "safe_vault_wheel_spin"
+    },
+    {
+        "title": "level_up_fairy_dust_s1962136591_v1",
+        "description": "A magical, sparkling chime sequence for gaining a level or stat boost.",
+        "category": "Powers",
+        "subcategory": "Buffs & Power-ups",
+        "duration": 3,
+        "tags": [
+            "level-up",
+            "powerup",
+            "magic",
+            "sparkle",
+            "chime",
+            "fairy",
+            "positive"
+        ],
+        "matched_prefix": "level_up_fairy_dust"
+    },
+    {
+        "title": "warp_portal_whoosh_s1324346780_v1",
+        "description": "A smooth, safe-sounding sci-fi whoosh for teleporting between islands.",
+        "category": "Powers",
+        "subcategory": "Teleport & Portals",
+        "duration": 2.5,
+        "tags": [
+            "teleport",
+            "portal",
+            "warp",
+            "whoosh",
+            "sci-fi",
+            "smooth",
+            "travel"
+        ],
+        "matched_prefix": "warp_portal_whoosh"
+    },
+    {
+        "title": "healing_aura_glow_s1394240612_v1",
+        "description": "A soothing, warm magical shimmer when a player heals in a roleplay game.",
+        "category": "Powers",
+        "subcategory": "Spells & Magic",
+        "duration": 3,
+        "tags": [
+            "heal",
+            "spell",
+            "magic",
+            "aura",
+            "warm",
+            "shimmer",
+            "positive"
+        ],
+        "matched_prefix": "healing_aura_glow"
+    },
+    {
+        "title": "water_spell_splash_s757879889_v1",
+        "description": "A playful, refreshing splash of water for a non-violent magic ability.",
+        "category": "Powers",
+        "subcategory": "Spells & Magic",
+        "duration": 2,
+        "tags": [
+            "spell",
+            "cast",
+            "water",
+            "splash",
+            "magic",
+            "refreshing",
+            "liquid"
+        ],
+        "matched_prefix": "water_spell_splash"
+    },
+    {
+        "title": "energy_shield_pop_up_s230762168_v1",
+        "description": "A snappy sci-fi energy barrier activating to protect a player.",
+        "category": "Powers",
+        "subcategory": "Sci-Fi & Energy",
+        "duration": 2,
+        "tags": [
+            "shield-hum",
+            "energy",
+            "forcefield",
+            "sci-fi",
+            "activate",
+            "protect",
+            "tech"
+        ],
+        "matched_prefix": "energy_shield_pop_up"
+    },
+    {
+        "title": "hologram_menu_hum_s239081303_v1",
+        "description": "A steady, futuristic buzzing hum for an interactive hologram display.",
+        "category": "Powers",
+        "subcategory": "Sci-Fi & Energy",
+        "duration": 3,
+        "tags": [
+            "hologram",
+            "beam",
+            "laser",
+            "sci-fi",
+            "hum",
+            "ui",
+            "tech"
+        ],
+        "matched_prefix": "hologram_menu_hum"
+    },
+    {
+        "title": "speed_boost_dash_s151792062_v1",
+        "description": "A quick, airy whoosh when a player activates a run-speed power-up.",
+        "category": "Powers",
+        "subcategory": "Buffs & Power-ups",
+        "duration": 2,
+        "tags": [
+            "boost",
+            "speed",
+            "powerup",
+            "dash",
+            "whoosh",
+            "fast",
+            "wind"
+        ],
+        "matched_prefix": "speed_boost_dash"
+    },
+    {
+        "title": "friendly_robot_beep_s753619902_v1",
+        "description": "A cute, expressive beep from an automated tycoon helper bot.",
+        "category": "Powers",
+        "subcategory": "Robots & Tech",
+        "duration": 1.5,
+        "tags": [
+            "robot",
+            "beep",
+            "computer",
+            "cute",
+            "friendly",
+            "tech",
+            "bot"
+        ],
+        "matched_prefix": "friendly_robot_beep"
+    },
+    {
+        "title": "friendly_dog_bark_s510667077_v1",
+        "description": "A happy, non-aggressive bark from a player's pet dog.",
+        "category": "Voices",
+        "subcategory": "Animals",
+        "duration": 1,
+        "tags": [
+            "dog",
+            "bark",
+            "pet",
+            "animal",
+            "friendly",
+            "happy",
+            "woof"
+        ],
+        "matched_prefix": "friendly_dog_bark"
+    },
+    {
+        "title": "cute_cat_meow_s854807909_v1",
+        "description": "A soft, adorable meow from a pet cat in a roleplay home.",
+        "category": "Voices",
+        "subcategory": "Animals",
+        "duration": 1.5,
+        "tags": [
+            "cat",
+            "meow",
+            "pet",
+            "animal",
+            "cute",
+            "feline",
+            "soft"
+        ],
+        "matched_prefix": "cute_cat_meow"
+    },
+    {
+        "title": "bouncy_slime_creature_s2043657148_v1",
+        "description": "A squishy, non-verbal bubbling sound for a cute, harmless slime pet.",
+        "category": "Voices",
+        "subcategory": "Monsters & Fantasy Creatures",
+        "duration": 2,
+        "tags": [
+            "monster",
+            "slime",
+            "squish",
+            "cute",
+            "fantasy",
+            "pet",
+            "bubble"
+        ],
+        "matched_prefix": "bouncy_slime_creature"
+    },
+    {
+        "title": "baby_dragon_chirp_s1288361276_v1",
+        "description": "A high-pitched, raspy chirp from a tiny baby dragon pet.",
+        "category": "Voices",
+        "subcategory": "Monsters & Fantasy Creatures",
+        "duration": 1.5,
+        "tags": [
+            "dragon",
+            "monster",
+            "chirp",
+            "cute",
+            "pet",
+            "fantasy",
+            "baby"
+        ],
+        "matched_prefix": "baby_dragon_chirp"
+    },
+    {
+        "title": "shopkeeper_happy_hmmm_s1981830546_v1",
+        "description": "A warm, unintelligible vocal hum to greet players in a store.",
+        "category": "Voices",
+        "subcategory": "NPC Dialogue & Barks",
+        "duration": 1.5,
+        "tags": [
+            "npc",
+            "greeting",
+            "murmur",
+            "voice",
+            "shopkeeper",
+            "friendly",
+            "non-verbal"
+        ],
+        "matched_prefix": "shopkeeper_happy_hmmm"
+    },
+    {
+        "title": "quest_giver_aha_s686608182_v1",
+        "description": "An unintelligible exclamation of realization when clicking a quest NPC.",
+        "category": "Voices",
+        "subcategory": "NPC Dialogue & Barks",
+        "duration": 1.5,
+        "tags": [
+            "npc",
+            "bark",
+            "exclamation",
+            "voice",
+            "quest",
+            "aha",
+            "non-verbal"
+        ],
+        "matched_prefix": "quest_giver_aha"
+    },
+    {
+        "title": "kids_crowd_yay_s1128300338_v1",
+        "description": "A group of children cheering non-verbally for completing a mini-game.",
+        "category": "Voices",
+        "subcategory": "Crowds & Reactions",
+        "duration": 3,
+        "tags": [
+            "cheer",
+            "crowd-reaction",
+            "kids",
+            "yay",
+            "positive",
+            "celebration",
+            "non-verbal"
+        ],
+        "matched_prefix": "kids_crowd_yay"
+    },
+    {
+        "title": "gentle_crowd_chuckle_s743903469_v1",
+        "description": "A soft, polite ripple of laughter from a small group for a social game.",
+        "category": "Voices",
+        "subcategory": "Crowds & Reactions",
+        "duration": 4,
+        "tags": [
+            "laugh-track",
+            "crowd-reaction",
+            "laugh",
+            "chuckle",
+            "group",
+            "social",
+            "non-verbal"
+        ],
+        "matched_prefix": "gentle_crowd_chuckle"
+    },
+    {
+        "title": "mini_game_countdown_beeps_s1261802545_v1",
+        "description": "Three short beeps followed by a higher pitch beep to start a race or round.",
+        "category": "Gameplay",
+        "subcategory": "Round & Match Flow",
+        "duration": 3,
+        "tags": [
+            "countdown",
+            "timer",
+            "round-start",
+            "beep",
+            "race",
+            "ui",
+            "gameplay"
+        ],
+        "matched_prefix": "mini_game_countdown_beeps"
+    },
+    {
+        "title": "round_end_whistle_s1514907504_v1",
+        "description": "A classic sports whistle blowing to signal the end of a round.",
+        "category": "Gameplay",
+        "subcategory": "Round & Match Flow",
+        "duration": 2,
+        "tags": [
+            "whistle",
+            "round-end",
+            "sports",
+            "gameplay",
+            "stop",
+            "referee",
+            "blow"
+        ],
+        "matched_prefix": "round_end_whistle"
+    },
+    {
+        "title": "mini_game_victory_fanfare_s1164758517_v1",
+        "description": "A short, happy, synthetic musical jingle for winning a round.",
+        "category": "Gameplay",
+        "subcategory": "Win / Lose",
+        "duration": 4,
+        "tags": [
+            "win",
+            "victory",
+            "success",
+            "jingle",
+            "happy",
+            "synth",
+            "celebrate"
+        ],
+        "matched_prefix": "mini_game_victory_fanfare"
+    },
+    {
+        "title": "comedic_lose_trombone_s1378013576_v1",
+        "description": "A lighthearted, funny descending trombone phrase for losing a mini-game.",
+        "category": "Gameplay",
+        "subcategory": "Win / Lose",
+        "duration": 3,
+        "tags": [
+            "lose",
+            "defeat",
+            "game-over",
+            "funny",
+            "trombone",
+            "comedy",
+            "fail"
+        ],
+        "matched_prefix": "comedic_lose_trombone"
+    },
+    {
+        "title": "quest_complete_jingle_s1195459222_v1",
+        "description": "A rewarding, magical chime to indicate a completed task in roleplay.",
+        "category": "Gameplay",
+        "subcategory": "Progression",
+        "duration": 3,
+        "tags": [
+            "quest",
+            "reward",
+            "achievement",
+            "chime",
+            "magic",
+            "success",
+            "progress"
+        ],
+        "matched_prefix": "quest_complete_jingle"
+    },
+    {
+        "title": "shiny_gem_pickup_s879400522_v1",
+        "description": "A high-pitched, glassy ting for picking up a rare collectible.",
+        "category": "Gameplay",
+        "subcategory": "Collectibles & Pickups",
+        "duration": 1.5,
+        "tags": [
+            "gem",
+            "collect",
+            "pickup",
+            "loot",
+            "glassy",
+            "chime",
+            "shiny"
+        ],
+        "matched_prefix": "shiny_gem_pickup"
+    },
+    {
+        "title": "low_time_ticking_s107632536_v1",
+        "description": "A subtle, non-anxiety-inducing woodblock tick to indicate time is running out.",
+        "category": "Gameplay",
+        "subcategory": "Alerts & Warnings",
+        "duration": 3,
+        "tags": [
+            "warning",
+            "alarm",
+            "timer",
+            "tick",
+            "clock",
+            "woodblock",
+            "gameplay"
+        ],
+        "matched_prefix": "low_time_ticking"
+    },
+    {
+        "title": "checkpoint_flag_flutter_s1062055463_v1",
+        "description": "A satisfying rustle of heavy cloth and a pleasant ding for hitting a checkpoint.",
+        "category": "Gameplay",
+        "subcategory": "Checkpoints & Objectives",
+        "duration": 2,
+        "tags": [
+            "checkpoint",
+            "objective",
+            "flag",
+            "capture",
+            "cloth",
+            "ding",
+            "progress"
+        ],
+        "matched_prefix": "checkpoint_flag_flutter"
+    },
+    {
+        "title": "party_balloon_pop_s342293014_v1",
+        "description": "A simple, light pop of a rubber balloon for miscellaneous events.",
+        "category": "Miscellaneous",
+        "subcategory": "Uncategorized",
+        "duration": 1,
+        "tags": [
+            "misc",
+            "pop",
+            "balloon",
+            "party",
+            "rubber",
+            "snap",
+            "quick"
+        ],
+        "matched_prefix": "party_balloon_pop"
+    },
+    {
+        "title": "cartoon_scene_transition_s60681457_v1",
+        "description": "A silly, swooping slide-whistle for transitioning between UI screens.",
+        "category": "Miscellaneous",
+        "subcategory": "Uncategorized",
+        "duration": 2.5,
+        "tags": [
+            "misc",
+            "transition",
+            "whoosh",
+            "cartoon",
+            "slide-whistle",
+            "silly",
+            "sweep"
+        ],
+        "matched_prefix": "cartoon_scene_transition"
+    },
+    {
+        "title": "soft_pink_noise_bed_s1868359947_v1",
+        "description": "A very quiet, smooth pink noise tone used as a utility audio bed to fill dead air.",
+        "category": "Miscellaneous",
+        "subcategory": "Silence & Utility",
+        "duration": 10,
+        "tags": [
+            "noise",
+            "calibration",
+            "tone",
+            "pink-noise",
+            "utility",
+            "smooth",
+            "static"
+        ],
+        "matched_prefix": "soft_pink_noise_bed"
+    },
+    {
+        "title": "magical_placeholder_sparkle_s254355368_v1",
+        "description": "A gentle, magical sparkling chime used as a placeholder for an undefined event.",
+        "category": "Miscellaneous",
+        "subcategory": "Uncategorized",
+        "duration": 2,
+        "tags": [
+            "misc",
+            "placeholder",
+            "sparkle",
+            "chime",
+            "magic",
+            "soft"
+        ],
+        "matched_prefix": "magical_placeholder_sparkle"
+    },
+    {
+        "title": "quirky_physics_wobble_test_s1020486622_v1",
+        "description": "A quirky, synthetic wobble used by developers to test physics and bouncing.",
+        "category": "Miscellaneous",
+        "subcategory": "Experimental / Unknown",
+        "duration": 1.5,
+        "tags": [
+            "test",
+            "unknown",
+            "wobble",
+            "physics",
+            "bounce",
+            "quirky",
+            "synth"
+        ],
+        "matched_prefix": "quirky_physics_wobble_test"
+    },
+    {
+        "title": "rubber_stretch_temp_sound_s149830714_v1",
+        "description": "A bouncy, rubbery stretching sound for a temporary animation test.",
+        "category": "Miscellaneous",
+        "subcategory": "Experimental / Unknown",
+        "duration": 1.5,
+        "tags": [
+            "test",
+            "temp",
+            "stretch",
+            "rubber",
+            "elastic",
+            "tension",
+            "cartoon"
+        ],
+        "matched_prefix": "rubber_stretch_temp_sound"
+    },
+    {
+        "title": "smooth_brown_noise_bed_s2147057076_v1",
+        "description": "A low, warm brown noise tone used as a utility audio bed.",
+        "category": "Miscellaneous",
+        "subcategory": "Silence & Utility",
+        "duration": 10,
+        "tags": [
+            "noise",
+            "tone",
+            "utility",
+            "brown-noise",
+            "smooth",
+            "warm",
+            "static"
+        ],
+        "matched_prefix": "smooth_brown_noise_bed"
+    },
+    {
+        "title": "comical_boing_with_bell_s321607922_v1",
+        "description": "A soft, comical boing combined with a tiny bell for generic harmless events.",
+        "category": "Miscellaneous",
+        "subcategory": "Uncategorized",
+        "duration": 1.5,
+        "tags": [
+            "misc",
+            "other",
+            "boing",
+            "bell",
+            "funny",
+            "cartoon",
+            "harmless"
+        ],
+        "matched_prefix": "comical_boing_with_bell"
+    }
+]
 }
